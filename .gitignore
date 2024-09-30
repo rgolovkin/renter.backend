@@ -1,5 +1,6 @@
 #
 .env
+/data
 
 # compiled output
 /dist
